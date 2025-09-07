@@ -1,0 +1,16 @@
+# OS/editor
+.DS_Store
+*.swp
+
+# Node
+**/node_modules/
+**/dist/
+npm-debug.log*
+
+# Docker
+**/.env
+**/.env.*
+**/.dockerignore
+
+# Misc
+.vscode/
