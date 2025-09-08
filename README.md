@@ -24,3 +24,4 @@ This lab shows:
 <img width="892" height="468" alt="2" src="https://github.com/user-attachments/assets/f63dabda-3284-4810-99de-767ad87c5b69" />
 <img width="1847" height="937" alt="3" src="https://github.com/user-attachments/assets/56e5b88c-623a-4926-b669-d5a7225bf071" />
 <img width="874" height="864" alt="1" src="https://github.com/user-attachments/assets/7eb1f88b-e4e5-40b8-8825-15ec94ab787e" />
+<img width="508" height="218" alt="4" src="https://github.com/user-attachments/assets/689bd3f9-e04c-48cb-b536-7bde0ab51cae" />
