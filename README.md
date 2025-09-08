@@ -1,10 +1,4 @@
-# Nginx + Docker + Monitoring Lab
-
-A hands-on **DevOps/System Administration lab** built on VirtualBox with 3 VMs, simulating a production-like environment with reverse proxy, Dockerized applications, and full observability.
-
-📐 Architecture
-
-# Nginx + Docker + Monitoring Lab
+Nginx + Docker + Monitoring Lab
 
 A hands-on **DevOps/System Administration lab** built on VirtualBox with 3 VMs, simulating a production-like environment with reverse proxy, Dockerized applications, and full observability.
 
